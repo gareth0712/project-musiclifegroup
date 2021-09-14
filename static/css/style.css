@@ -1262,6 +1262,7 @@ a:visited {
   position: relative;
   overflow: hidden;
   left: -30px;
+  margin-top: 140px;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-name: shapeRotate;
@@ -1282,8 +1283,6 @@ a:visited {
   left: 0;
   right: 0;
   bottom: 0;
-  background: transparent url(../images/cta-shape-1-1.png) center center
-    no-repeat;
   background-size: 100%;
 }
 .cta-three__image > img {

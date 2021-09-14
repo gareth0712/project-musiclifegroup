@@ -33,10 +33,10 @@
         >
           <ul class=" navigation-box one-page-scroll-menu ">
             <li class="current scrollToLink">
-              <a href="#home">關於我們</a>
+              <a href="#home">主頁</a>
             </li>
             <li class="scrollToLink">
-              <a href="#services">Features</a>
+              <a href="#services">關於我們</a>
             </li>
             <li class="scrollToLink">
               <a href="#pricing">Pricing</a>

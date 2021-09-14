@@ -17,13 +17,15 @@
       class="banner-one__rocket"
       alt="Awesome Image"
     />
-    <img src="/images/banner.png" class="banner-one__moc" alt="Awesome Image" />
+    <!-- <img src="/images/banner.png" class="banner-one__moc" alt="Awesome Image" /> -->
     <div class="container">
       <div class="row">
         <div class="col-xl-6">
           <div class="banner-one__content">
             <!-- /.banner-one__tag-line -->
             <h3 class="banner-one__title">
+              生命之樂
+              <br />
               Music Life Group
             </h3>
             <!-- /.banner-one__title -->
