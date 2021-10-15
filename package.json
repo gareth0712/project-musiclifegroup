@@ -1,7 +1,7 @@
 {
-  "name": "lums",
+  "name": "project-musiclifegroup",
   "version": "1.0.0",
-  "description": "Lums - Vue Nuxt SEO Landing Template",
+  "description": "Project for Music Life Group",
   "author": "Layerdrops",
   "private": true,
   "scripts": {
