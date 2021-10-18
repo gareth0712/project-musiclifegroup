@@ -36,24 +36,13 @@
               <a href="#home">主頁</a>
             </li>
             <li class="scrollToLink">
-              <a href="#services">關於我們</a>
+              <a href="#services">服務範疇</a>
             </li>
             <li class="scrollToLink">
-              <a href="#pricing">Pricing</a>
+              <a href="#brand">品牌概念</a>
             </li>
             <li class="scrollToLink">
-              <a href="#testimonials">Testimonials</a>
-            </li>
-            <li class="scrollToLink">
-              <a href="#blog">Blog</a>
-              <ul class="sub-menu" style="display: block">
-                <li><nuxt-link to="/blog">Blog</nuxt-link></li>
-                <li><nuxt-link to="/blog-details">Blog Details</nuxt-link></li>
-              </ul>
-              <!-- /.sub-menu -->
-            </li>
-            <li class="scrollToLink">
-              <a href="#contact">Contact</a>
+              <a href="#contact">聯絡我們</a>
             </li>
           </ul>
         </div>

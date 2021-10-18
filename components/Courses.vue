@@ -1,5 +1,5 @@
 <template>
-  <section class="pricing-one" id="pricing">
+  <section class="pricing-one" id="courses">
     <div class="container">
       <div class="block-title text-center">
         <h2 class="block-title__title black-text-color">

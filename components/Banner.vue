@@ -46,4 +46,8 @@ export default {
 };
 </script>
 
-<style scoped></style>
+<style scoped>
+.banner-one__title {
+  color: #fff;
+}
+</style>

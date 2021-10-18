@@ -3,9 +3,10 @@
     <Nav />
     <Banner />
     <Service />
-    <CallToActionThree />
-    <Pricing />
-    <CallToAction />
+    <Brand />
+    <Courses />
+    <About />
+    <Contact />
     <Footer />
   </div>
 </template>
@@ -15,24 +16,17 @@ import Nav from "../components/Nav";
 import Banner from "../components/Banner";
 import Footer from "../components/Footer";
 import Service from "../components/Service";
-import CallToActionThree from "../components/CallToActionThree";
-import CallToActionTwo from "../components/CallToActionTwo";
-import Pricing from "../components/Pricing";
-import Testimonial from "../components/Testimonial";
-import Brands from "../components/Brands";
-import FunFact from "../components/FunFact";
-import BlogArea from "../components/BlogArea";
-import CallToAction from "../components/CallToAction";
+import About from "../components/About";
+import Brand from "../components/Brand";
+import Courses from "../components/Courses";
+import Contact from "../components/Contact";
+
 export default {
   components: {
-    CallToAction,
-    BlogArea,
-    FunFact,
-    Brands,
-    Testimonial,
-    Pricing,
-    CallToActionTwo,
-    CallToActionThree,
+    About,
+    Contact,
+    Courses,
+    Brand,
     Service,
     Footer,
     Banner,
