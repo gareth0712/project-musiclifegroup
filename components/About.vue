@@ -19,7 +19,7 @@
             </div>
             <!-- /.block-title -->
             <p class="cta-three__text">
-              Music Life Group
+              Music Life Group - introduction
             </p>
             <!-- /.cta-three__text -->
             <ul class="cta-three__list">
