@@ -19,10 +19,7 @@
             </div>
             <!-- /.block-title -->
             <p class="cta-three__text">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores
-              aperiam id iure quis nostrum, quasi cumque vitae optio explicabo,
-              reprehenderit enim modi voluptatibus rerum recusandae similique
-              consectetur inventore magnam labore.
+              Music Life Group
             </p>
             <!-- /.cta-three__text -->
             <ul class="cta-three__list">
