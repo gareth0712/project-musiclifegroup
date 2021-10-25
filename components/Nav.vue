@@ -10,14 +10,6 @@
       <div class="container clearfix">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="logo-box clearfix">
-          <a class="navbar-brand" href="/">
-            <img
-              src="/images/logo-light.png"
-              class="main-logo"
-              width="66"
-              alt="Awesome Image"
-            />
-          </a>
           <button class="menu-toggler" data-target=".main-navigation">
             <span
               @click="mobileToggle = !mobileToggle"
