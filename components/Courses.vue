@@ -9,9 +9,10 @@
       </div>
       <!-- /.block-title -->
       <div class="row">
-        <img src="/images/box1.png" />
-        <img src="/images/box2.png" />
-        <img src="/images/box3.png" />
+        <img src="/images/box4.png" />
+        <img src="/images/box5.png" />
+        <img src="/images/box6.png" />
+        <img src="/images/box7.png" />
       </div>
       <!-- /.row -->
     </div>
@@ -21,7 +22,7 @@
 
 <script>
 export default {
-  name: "Pricing",
+  name: 'Pricing',
 };
 </script>
 
@@ -32,6 +33,7 @@ export default {
 
 .row {
   display: flex;
+  justify-content: center;
 }
 
 img {

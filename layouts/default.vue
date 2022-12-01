@@ -9,7 +9,7 @@ export default {
   components: {},
   head() {
     return {
-      title: "生命之樂 - Music Life Group",
+      title: 'Piano Dream',
     };
   },
   mounted() {

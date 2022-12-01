@@ -24,9 +24,7 @@
           <div class="banner-one__content">
             <!-- /.banner-one__tag-line -->
             <h3 class="banner-one__title">
-              生命之樂
-              <br />
-              Music Life Group
+              Piano Dream
             </h3>
             <!-- /.banner-one__title -->
           </div>
@@ -42,7 +40,7 @@
 
 <script>
 export default {
-  name: "Banner",
+  name: 'Banner',
 };
 </script>
 

@@ -22,13 +22,13 @@
 
 <script>
 export default {
-  name: "CallToAction",
+  name: 'CallToAction',
   data() {
     return {
       whatsappLink:
-        "https://api.whatsapp.com/send?phone=85264160526&app=facebook&entry_point=page_cta&fbclid=IwAR155hKk6PZq-9X0jaivk57VMwjiRSJCj02Ej2IhHozW_Pkr2X9oVf56gM8",
+        'https://api.whatsapp.com/send?phone=85262029554&app=facebook&entry_point=page_cta&fbclid=IwAR155hKk6PZq-9X0jaivk57VMwjiRSJCj02Ej2IhHozW_Pkr2X9oVf56gM8',
       facebookLink:
-        "https://www.facebook.com/生命之樂-Music-Life-Group-101231378718871/",
+        'https://www.facebook.com/生命之樂-Music-Life-Group-101231378718871/',
     };
   },
 };

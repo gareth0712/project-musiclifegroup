@@ -2,7 +2,7 @@
   "name": "project-musiclifegroup",
   "version": "1.0.0",
   "description": "Project for Music Life Group",
-  "author": "Layerdrops",
+  "author": "Gareth Lau",
   "private": true,
   "scripts": {
     "dev": "nuxt",

@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-lg-6">
           <div class="cta-three__image logo">
-            <img src="/images/logo.png" alt="Awesome Image" />
+            <img src="/images/logo2.png" alt="Awesome Image" />
           </div>
           <!-- /.cta-three__image -->
         </div>
@@ -19,7 +19,7 @@
             </div>
             <!-- /.block-title -->
             <p class="cta-three__text">
-              Music Life Group - introduction
+              Piano Dream - introduction
             </p>
             <!-- /.cta-three__text -->
             <ul class="cta-three__list">
@@ -55,7 +55,7 @@
 
 <script>
 export default {
-  name: "CallToActionThree",
+  name: 'CallToActionThree',
 };
 </script>
 
